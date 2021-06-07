@@ -9,7 +9,7 @@ documentation files, PCB files and more. Therefore it's structured differently
 from the main repo.
 
 The project's webpage is https://www.mikrocontroller.net/articles/AVR_Transistortester
-and the main repo is https://github.com/Mikrocontroller-net/transistortester.
+and the main repo is https://github.com/kubi48/TransistorTester-source.
 
 BTW, all the inexpensive Transistortesters sold on your favourite shopping platform
 are based on this project and can be updated with the original OSHW firmware versions.
